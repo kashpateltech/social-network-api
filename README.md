@@ -31,7 +31,7 @@ Insomnia
 
 ## Links
 
-Please check out [Video Link](https://github.com/kashpateltech/Techblog) for the app.
+Please check out [Video Link](https://youtu.be/QmF_iUONVvY) for the app.
 
 
 <a name="license"></a>
